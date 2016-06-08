@@ -1,4 +1,4 @@
-# forca in Clojure P.i Paradigmas de Programação IESB
+# forca in Clojure  integration project programming language paradigms IESB
 
 
 

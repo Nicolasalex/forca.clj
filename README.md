@@ -1,36 +1,23 @@
 # forca
 
-FIXME: description
+
 
 ## Installation
 
-Download from http://example.com/FIXME.
+Download Leiningen and SDK JAVA
 
 ## Usage
 
 FIXME: explanation
 
-    $ java -jar forca-0.1.0-standalone.jar [args]
+   Terminal lein repl  or lein run 
 
-## Options
 
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
-
-## License
-
-Copyright © 2016 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+(defn -main  [& args]
+	(println)
+	(println)
+	(println "P.I DE PARADIGMAS DE PROGRAMACAO - 1/2016 ")
+	(println "Orientador: Prof. MSc Cristiano Lehrer ")
+	(println "Aluno: Nicolas Alexandre - 1212130027 ")
+	(println)
+	(println)

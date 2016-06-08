@@ -1,4 +1,4 @@
-# forca
+# forca in Clojure P.i Paradigmas de Programação IESB
 
 
 
